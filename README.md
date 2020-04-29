@@ -6,7 +6,9 @@ These datasets are made available to academia and industry to promote research a
 ## Academia 
 - Students: Please have your supervisors contact us from their university account. 
 - Faculty: Please contact us from your primary faculty account.
+
 Please email us with your name, position, your universities and your homepage and/or department. Please outline your project and use of the dataset. Verification will be conducted, failure to provide all information may see your request ignored. 
+
 ## Industry
 Please use an official company email account, providing background about yourself, position and the company, along with your company’s website.  
 Please also include an official letter of request (PDF) with your company’s letterhead, contact information, addressed to the Advanced Threat Detection Group, part of Swinburne University of Technology’s Cyber Security lab, Melbourne, Australia. Clearly state the uses of the dataset, outcomes of use, reasons associated to its request. Please also state clearly that the dataset is not involved for commercial outcomes and will not be shared with anyone outside of those participating, individuals and companies alike. 
