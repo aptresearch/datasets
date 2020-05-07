@@ -35,7 +35,7 @@ The following institutions have been granted access:
 
 
 ## Dataset Metadata
-The following table is for data indexedation by search
+The following table is for data indexation by search
 engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
 <div itemscope itemtype="http://schema.org/Dataset">
   <table>
