@@ -45,7 +45,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
     <tr>
       <td>name</td>
-      <td><code itemprop="name">APT DATASETS</code></td>
+      <td><code itemprop="name">Advanced Persistent Threat (APT) Execution Log Datasets</code></td>
     </tr>
       <tr>
       <td>description</td>
