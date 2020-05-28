@@ -8,7 +8,7 @@ These datasets are made available to academia and industry to promote research a
 - The APT-T1 dataset provides a variety of testing samples from six different campaigns, across more than 5 industries between 2018 - 19. These are raw execution logs. 
 
 
-Datasets will be released in full in the second half of 2020. You may register your interest by contacting rjcoulter[at]swin[dot]edu[dot]au. Sample data currenly exists before the entire release. 
+Datasets will be released in full in the second half of 2020. 
 
 ## Academia 
 - Students: Please have your supervisors contact us from their university account. 
@@ -24,9 +24,6 @@ Please also include an official letter of request (PDF) with your company’s le
 
 
 Use of the dataset is at your own risk, no warranty is given, or responsibility accepted about any issue which arrive from its use. This data is provided in good faith for scientific inquiry, by requesting access, you consent to you institution being listed below.   
-
-The following institutions have been granted access:
-1. Swinburne University of Technology <https://www.swinburne.edu.au/>
 
 
 
