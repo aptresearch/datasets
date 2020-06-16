@@ -1,12 +1,13 @@
 # APT DATASETS
-### APT-EXE | APT-DLL | APT-T1
+### APT-EXE | APT-DLL 
 
 These datasets are made available to academia and industry to promote research and inquiry, representing the execution logs of 9,376, 2,195 and 30 APT samples respectively.  
 
 - APT-EXE execution logs contain 24 primary feature categories. These categories are Imports, Runtime DLLs, Registry Set, Registry Set Value, Registry Set Type, Registry Deleted, Service (Opened, Controlled, Created, Started), Process (Terminated, Created, Injected), Shell Commands, File (Read, Opened, Written, Replaced, Deleted, Moved and Copy source and destination), and additionally respective DLLs and functions called.
 - The APT-DLL dataset represents two feature categories of DLLs and functions called.
+<!---
 - The APT-T1 dataset provides a variety of testing samples from six different campaigns, across more than 5 industries between 2018 - 19. These are raw execution logs. 
-
+-->
 
 Datasets will be released in full in the second half of 2020. 
 <!---
@@ -46,7 +47,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
       <tr>
       <td>description</td>
-      <td><code itemprop="description">APT Execution datasets, representing the execution logs of 9,376, 2,195 and 30 APT samples respectively. APT-EXE execution logs contain 24 primary feature categories. These categories are Imports, Runtime DLLs, Registry Set, Registry Set Value, Registry Set Type, Registry Deleted, Service (Opened, Controlled, Created, Started), Process (Terminated, Created, Injected), Shell Commands, File (Read, Opened, Written, Replaced, Deleted, Moved and Copy source and destination), and additionally respective DLLs and functions called. The APT-DLL dataset represents two feature categories of DLLs and functions called. The APT-T1 dataset provides a variety of testing samples from six different campaigns, across more than 5 industries between 2018 - 19. These are raw execution logs.</code></td>
+      <td><code itemprop="description">APT Execution datasets, representing the execution logs of 9,376, and 2,195 APT samples respectively. APT-EXE execution logs contain 24 primary feature categories. These categories are Imports, Runtime DLLs, Registry Set, Registry Set Value, Registry Set Type, Registry Deleted, Service (Opened, Controlled, Created, Started), Process (Terminated, Created, Injected), Shell Commands, File (Read, Opened, Written, Replaced, Deleted, Moved and Copy source and destination), and additionally respective DLLs and functions called. The APT-DLL dataset represents two feature categories of DLLs and functions called. </code></td>
     </tr>
     </tr>
       <tr>
@@ -55,3 +56,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     </tr>
   </table>
 </div>
+<!---
+ and 30
+The APT-T1 dataset provides a variety of testing samples from six different campaigns, across more than 5 industries between 2018 - 19. These are raw execution logs.
+-->
