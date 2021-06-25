@@ -22,14 +22,14 @@ Please use an official company email account, providing background about yoursel
 Please also include an official letter of request with your company’s letterhead, contact information, addressed to the Advanced Threat Detection Group, part of Swinburne University of Technology’s Cyber Security lab, Melbourne, Australia. Clearly state the uses of the dataset, outcomes of use, reasons associated to its request. Please also state clearly that the dataset is not involved for commercial outcomes and will not be shared with anyone outside of those participating, individuals and companies alike. 
 **Should you seek access for commercial outcomes, please contact us accordingly with your request for further communication.**
 
--->
+
 Use of the dataset is at your own risk, no warranty is given, or responsibility accepted about any issue which arrive from its use. 
 This data is provided in good faith for scientific inquiry, by requesting access, you consent to you institution being listed below.   
 
 The following institutions have been granted access:
 - Swinburne University of Technology
 - Deakin University
- 
+ -->
 <!---
 ## Academia 
 - Students: Please have your supervisors contact us from their university account. 
